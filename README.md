@@ -7,13 +7,13 @@
 - 🟨 JavaScript
 - ⚙ C/C++
 - 🐍 Python
-- ⚛ I’m currently learning React Query
+- ⚛ I’m currently learning React
 - 💼 TypeScript (a little bit)
 - 🌐 Full-stack development (learning)
 - 📊 Data Structures and Algorithms (in C++)
 
 🌟 Notable Projects:
-- Government School Website: Developed a website for a government school as part of a competition. Though I didn't win, it was a valuable learning experience and a significant project in my portfolio. [Check it out here!](https://govt-school-website-by-team-codeclash.netlify.app/)
+- Government School Website: Developed a website for a government school as part of a competition. It was a valuable learning experience and a significant project in my portfolio. [Check it out here!](https://govt-school-website-by-team-codeclash.netlify.app/)
 
 🚀 Always excited to work on open-source projects and collaborate with the community.
 
